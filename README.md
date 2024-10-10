@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=beomsuchoi)](https://github.com/beomsuchoi/github-readme-stats)
-<a href="https://opgc.me/#/users/beomsuchoi" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/beomsuchoi/tag/?theme=basic" /></a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cbs1982c)](https://solved.ac/cbs1982c/)
+
