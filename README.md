@@ -1,4 +1,4 @@
-## Hi there 👋 velog address : https://velog.io/@beomsuchoi/posts
+## Hi there 👋 
 
 <!--
 **beomsuchoi/beomsuchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
