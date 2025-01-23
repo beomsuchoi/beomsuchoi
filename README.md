@@ -16,8 +16,8 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=beomsuchoi&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[이메일])](mailto:[이메일])
-[![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white&link=[블로그주소])]([블로그주소])
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beomsoochoi11@gmail.com)](mailto:beomsoochoi11@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@beomsuchoi/posts)](https://velog.io/@beomsuchoi/posts)
 
 <!--
 **beomsuchoi/beomsuchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
