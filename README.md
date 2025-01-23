@@ -19,9 +19,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[이메일])](mailto:[이메일])
 [![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white&link=[블로그주소])]([블로그주소])
 
-
-<!-- GitHub 프로필에 표시될 스네이크 게임 -->
-![Snake animation](https://github.com/[username]/[username]/blob/output/github-contribution-grid-snake.svg)
 <!--
 **beomsuchoi/beomsuchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
