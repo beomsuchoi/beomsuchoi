@@ -4,8 +4,8 @@
 
 ## 🚀 About Me
 - 🎓 RO:BIT에서 로보틱스를 연구하고 있습니다
-- 💻 Computer Vision과 3D sensing을 전문적으로 다룹니다
-- 🌱 현재 Intel RealSense와 3D SLAM을 학습하고 있습니다
+- 💻 Computer Vision을 다룹니다
+- 🌱 현재 Intel RealSense를 학습하고 있습니다
 - 🤖 자율 주행 로봇 개발에 관심이 있습니다
 
 ## 🛠 Tech Stack
@@ -27,4 +27,3 @@
 ### Vision-based Robot Navigation
 - ROS2 기반 자율주행 로봇 개발
 - Tech Stack: ROS2, OpenCV, RealSense SDK, C++
-- [프로젝트 링크나 스크린샷 추가 가능]
