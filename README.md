@@ -1,6 +1,4 @@
 # Hi there 👋 
-
-
 ## 🚀 About Me
 - 🎓 RO:BIT에서 로보틱스를 연구하고 있습니다
 - 💻 Computer Vision을 다룹니다
@@ -17,6 +15,10 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=beomsuchoi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beomsuchoi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=beomsuchoi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beomsoochoi11@gmail.com)](mailto:beomsoochoi11@gmail.com)
