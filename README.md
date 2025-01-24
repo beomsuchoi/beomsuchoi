@@ -1,4 +1,3 @@
-# Hi there 👋 
 
 ## 🚀 About Me
 - 🎓 RO:BIT에서 로보틱스를 연구하고 있습니다
