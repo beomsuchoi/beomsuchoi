@@ -12,10 +12,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=beomsuchoi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beomsuchoi&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=beomsuchoi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
