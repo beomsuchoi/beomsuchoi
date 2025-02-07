@@ -1,8 +1,7 @@
 
 ## 🚀 About Me
-- 🎓 RO:BIT에서 로보틱스를 연구하고 있습니다
+- 🎓 RO:BIT에서 연구하고 있습니다
 - 💻 Computer Vision을 다룹니다
-- 🌱 현재 Intel RealSense를 학습하고 있습니다
 - 🤖 자율 주행 로봇 개발에 관심이 있습니다
 
 ## 🛠 Tech Stack
