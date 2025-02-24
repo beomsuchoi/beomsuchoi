@@ -22,4 +22,4 @@
 ## 🤖 Featured Projects
 ### Vision-based Robot Navigation
 - ROS2 기반 자율주행 로봇 개발
-- Tech Stack: ROS2, OpenCV, RealSense SDK, C++
+- Tech Stack: ROS2, OpenCV, C++
