@@ -7,7 +7,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=beomsuchoi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=beomsuchoi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beomsoochoi11@gmail.com)](mailto:beomsoochoi11@gmail.com)
