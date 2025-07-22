@@ -6,15 +6,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=beomsuchoi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beomsoochoi11@gmail.com)](mailto:beomsoochoi11@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@beomsuchoi/posts)](https://velog.io/@beomsuchoi/posts)
 
 ## 🤖 Featured Projects
-### Vision-based Robot Navigation
+### Vision-based Robot Navigation & Deep learning-based image recognition for autonomous driving
 - ROS2 기반 자율주행 로봇 개발
 - Tech Stack: ROS2, OpenCV, C++
