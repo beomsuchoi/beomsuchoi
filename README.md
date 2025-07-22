@@ -13,4 +13,4 @@
 ## 🤖 Featured Projects
 ### Vision-based Robot Navigation & Deep learning-based image recognition for autonomous driving
 - ROS2 기반 자율주행 로봇 개발
-- Tech Stack: ROS2, OpenCV, C++
+- Tech Stack: ROS2, OpenCV, C++, YOLO, Realsense
