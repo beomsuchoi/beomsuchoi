@@ -1,9 +1,3 @@
-
-## 🚀 About Me
-- 🎓 RO:BIT에서 연구하고 있습니다
-- 💻 Computer Vision을 다룹니다
-- 🤖 자율 주행 로봇 개발에 관심이 있습니다
-
 ## 🛠 Tech Stack
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
